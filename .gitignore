@@ -1,15 +1,5 @@
-# OS / editor
 .DS_Store
-.vscode/
-
-# Node
 node_modules/
-
-# Env files (any folder)
 .env
 **/.env
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+.vscode/
