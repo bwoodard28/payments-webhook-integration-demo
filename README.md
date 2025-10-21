@@ -1,7 +1,7 @@
 # Payments Webhook Integration Demo
 
 Minimal Node/Express + Stripe **payments integration** you can run locally.  
-Great for pre‑sales demos and portfolio: shows **PaymentIntent creation** now, with a clear path to add **webhook signature verification** and **idempotency**.
+Shows **PaymentIntent creation** now, with a clear path to add **webhook signature verification** and **idempotency**.
 
 ## Features (current)
 - `/payments/create-intent` — creates a Stripe **PaymentIntent** for $9.99 (USD)
